@@ -1,0 +1,65 @@
+body {
+  /* height: 100vh !important; */
+  min-height: 80vh !important;
+  background: #fff !important;
+}
+
+.form-check-input {
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.315)!important;
+}
+
+.form-label {
+  color: #888;
+}
+
+.demo-editor {
+  min-height: 300px !important;
+  padding: 5px !important;
+  border-radius: 2px !important;
+  border: 1px solid #b8b8b8 !important;
+}
+
+.public-DraftStyleDefault-block {
+    margin: 0 !important;
+}
+
+.DraftEditor-editorContainer {
+  height: 300px;
+}
+
+.thTableStyle {
+  border-left: 1px solid #dee2e6;
+  border-right: 1px solid #dee2e6;
+  white-space: nowrap;
+  width: auto,
+}
+
+.thTableActions {
+  width: 10%; 
+  white-space: nowrap;
+}
+
+.tdTableActions {
+    border-left: 1px solid #dee2e6;
+    border-right: 1px solid #dee2e6;
+    white-space: nowrap;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #3b3b3bd5;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 3px;
+}
